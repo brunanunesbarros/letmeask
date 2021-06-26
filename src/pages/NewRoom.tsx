@@ -30,14 +30,14 @@ export function NewRoom() {
       return;
     }
 
-    const roomRef = database.ref('rooms'); //pega referência com uma categoria salas//
+    const roomRef = database.ref('rooms'); 
 
-    const firebaseRoom = roomRef.push({ //insere na referência, os dados como um obj//
+    const firebaseRoom = roomRef.push({ 
       title: newRoom,
       authorId: user?.id
     })
 
-    history.push(`/rooms/${firebaseRoom.key}`)
+    history.push(`/admin/rooms/${firebaseRoom.key}`) 
   }
 
   return(
