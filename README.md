@@ -11,14 +11,14 @@ O Letmeask é uma solução para o gerenciamento de perguntas e respostas entre 
   <img src="./screenshots/mobile-home.gif" width="150"/>
 </div>
 
-## 🔨 Ferramentas Utilizadas
+## 🔨 Tecnologias Utilizadas
 - [ReactJS](https://reactjs.org/)
 - [Typescript](https://www.typescriptlang.org/)
 - [Firebase](https://firebase.google.com/?hl=pt)
 - [SASS](https://sass-lang.com/)
 
 ## 🚀 Desafio #NLWTogether (Próximo Nível) 
-Durante o evento foi nos dado o desafio de ao concluírmos a semana com as aulas ir além com a nossa aplicação, desenvolver novas funcionalidades e levar a aplicação ao próximo nível.
+Durante o evento foi nos dado o desafio de ao concluirmos a semana com as aulas ir além com a nossa aplicação, desenvolver novas funcionalidades e levar a aplicação ao próximo nível.
 
 
 ## 💡 Novas funcionalidades
