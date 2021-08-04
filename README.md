@@ -40,7 +40,7 @@ Durante o evento foi nos dado o desafio de ao concluirmos a semana com as aulas 
 
 ## 📈 O que eu aprendi
 
-Reforçei os meus conceitos de ReactJs (state, components, props, hooks), e aprendi vários conceitos novos como imutabilidade, closures, [Context Api](https://pt-br.reactjs.org/docs/context.html), a criação dos nossos próprios [Hooks](https://pt-br.reactjs.org/docs/hooks-custom.html), e o uso da biblioteca [react-hot-toast](https://react-hot-toast.com/) para trazer as notificações de erro da aplicação. 
+Reforçei os meus conceitos de ReactJs (state, components, props, hooks), a criação dos nossos próprios [Hooks](https://pt-br.reactjs.org/docs/hooks-custom.html), e o uso da biblioteca [react-hot-toast](https://react-hot-toast.com/) para trazer as notificações de erro da aplicação. 
 Com relação ao Typescript pude entender melhor o porque do seu uso, e em geral posso resumir que ele só tem a contribuir para a experiência de desenvolvimento. 
 Reforcei alguns conceitos do uso do pré-processador SASS, eu já havia tido um primeiro contato em uma #NLW anterior e agora pude notar realmente algumas vantagens do seu uso ao invés do CSS tradicional.
 E com certeza um dos maiores conhecimentos adquiridos foi sem dúvidas o uso do Firebase, foi o meu primeiro contato com a ferramenta e de primeira realmente foi um pouco difícil entender, mas nada que assistir a aula 2 vezes e revisar o código linha por linha não resolva 😆. E por último, o desafio de trazer novas funcionalidades à aplicação pôde me fazer testar melhor a aplicação e incluir etapas que não existiam, tratar alguns bugs e melhorar ainda mais a experiência do usuário.
